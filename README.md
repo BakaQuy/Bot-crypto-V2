@@ -1,2 +1,2 @@
 # Bot-crypto-V2
-Cryptocurrency bot trading on Binance and based on LSTM analysis.
+Bot that trades cryptocurrences based on LSTM analysis.
